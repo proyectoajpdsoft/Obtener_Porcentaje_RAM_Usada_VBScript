@@ -1,2 +1,1 @@
-# Obtener_Porcentaje_RAM_Usada_VBScript
- Visual Basic Script VBS para obtener y mostrar el porcentaje de memoria RAM usada en el equipo
+Un script VBS (Visual Basic Script) que obtiene la memoria RAM usada en porcentaje. Extraerá la información mediante WMI, con Win32_ComputerSystem y Win32_OperatingSystem. Más información en: https://proyectoa.com/visual-basic-script-vbs-para-obtener-y-mostrar-el-porcentaje-de-memoria-ram-usada-en-el-equipo/
